@@ -14,7 +14,6 @@ var time;
 var timeout;
 
 var startInterval;
-var timeInterval;
 
 container.addEventListener("click", () => {
     if (screenBlue) {
