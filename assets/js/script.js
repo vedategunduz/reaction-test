@@ -25,7 +25,7 @@ container.addEventListener("click", () => {
         container.innerHTML = "<h1>Yeşili bekleyin</h1>";
 
         time = 0;
-        timeout = (Math.random() * 3000) + 100000;
+        timeout = (Math.random() * 3000);
 
         startTimeout = setTimeout(() => {
             screenRed = !screenRed;
