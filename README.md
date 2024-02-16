@@ -25,5 +25,6 @@ Bu uygulama için herhangi bir harici bağımlılık gerekmez. Ancak, JavaScript
 
 ![Başlangıç Ekranı](assets/img/start.jpg)
 ![Bekleme Ekranı](assets/img/wait.jpg)
+![Erken Tıklama Ekranı](assets/img/toosoon.jpg)
 ![Tıklama Ekranı](assets/img/click.jpg)
 ![Sonuç Ekranı](assets/img/result.jpg)
