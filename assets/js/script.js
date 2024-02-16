@@ -20,6 +20,7 @@ container.addEventListener("click", () => {
     if (screenBlue) {
         screenBlue = !screenBlue;
         screenRed = !screenRed;
+        screenRedDoubleClick = false;
 
         container.style.backgroundColor = colorRed;
         container.innerHTML = "<h1>Yeşili bekleyin</h1>";
