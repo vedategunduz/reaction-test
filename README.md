@@ -5,7 +5,7 @@ Kullanıcıdan ekrana tıklanması istenir ve tıkladığı anda geçen süre ö
 
 ## Nasıl Çalışır
 
-1. https://vedategunduz.github.io/reactiontest/ ziyaret edin.
+1. https://vedategunduz.github.io/reaction-test/ ziyaret edin.
 2. Testi başlatmak için ekrana tıklayın.
 3. Yeşil renkli kutucuğun ortaya çıkmasını bekleyin.
 4. Yeşil kutucuğu gördüğünüz anda, mümkün olan en hızlı şekilde ekrana tıklayın.
